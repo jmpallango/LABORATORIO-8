@@ -67,6 +67,8 @@ Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a un
 
 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
+![image](https://user-images.githubusercontent.com/105695077/185625344-2bfafaa9-3bea-4472-b9e7-f183f400cb71.png)
+
 Responda las siguientes preguntas:
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________
