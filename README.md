@@ -92,7 +92,7 @@ del osciloscopio?
 
 Amplitud de voltaje: __13.72V__________(V)
 
-Periodo: ___0.1ms_________(s)
+Periodo: ___0.0004ms_________(s)
 
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
