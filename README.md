@@ -118,6 +118,9 @@ considerar las graficas que presenta el osciloscopio.
 
 # CONCLUSIONES:
 
+las ondas senoidales son patrones de ondas matematicas las cuales se describen por las funciones seno y coseno, estas ondas tienen a representar el voltaje, corriente en un intervalo de tiempo, estas ondas se las puede observar en los circuitos mediante un osiloscopio.
+
+
 # BIBLIOGRAFÍA:
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
