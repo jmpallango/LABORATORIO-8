@@ -41,6 +41,8 @@ Comprobar de forma teorica el funcionamiento y la forma matematica para encontar
 
 # MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/105695077/185545085-cfbc6bc1-a618-4e10-974f-ecefd0a62071.png)
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y dirección varían periódicamente. La forma de onda de la corriente alterna más
