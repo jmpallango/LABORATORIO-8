@@ -87,7 +87,7 @@ f: _____________(Hz)
 
 8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
 
-Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 ¿Coinciden? _______ ¿Por qué?
 
 NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas
