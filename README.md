@@ -75,6 +75,8 @@ Responda las siguientes preguntas:
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
 
+se encunetra en el valor 3 VOLTS/DIV
+
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________
 
 ¿En qué valor está posicionada la perilla TIME/DIV? ___________
