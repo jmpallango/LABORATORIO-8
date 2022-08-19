@@ -90,7 +90,7 @@ Se encuetra en el valor de 0.1m
 8.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 
-Amplitud de voltaje: ____________(V)
+Amplitud de voltaje: __13.72V__________(V)
 
 Periodo: ___0.1ms_________(s)
 
