@@ -92,7 +92,7 @@ del osciloscopio?
 
 Amplitud de voltaje: ____________(V)
 
-Periodo: ____________(s)
+Periodo: ___0.1ms_________(s)
 
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
@@ -102,6 +102,8 @@ f: _____________(Hz)
 ω: ____________(rad/s)
 
 8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+
+![image](https://user-images.githubusercontent.com/105695077/185640366-2065f3db-7912-40a6-9fd0-66070072cedf.png)
 
 Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 ¿Coinciden? _______ ¿Por qué?
