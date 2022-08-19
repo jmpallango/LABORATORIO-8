@@ -110,16 +110,17 @@ Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 
 Debido a que el valor medido por el multimetro es un valor mrs no se asemeja al valor pico pico del punto 8.5.5 pero se puede calcular el valor pico pico utilizando el valor mrs, la formula para encontrar el valor pico pico mediante es valor mrs es multiplicar el valor mrs por 2 raiz de 2 (2.8284)
 
-NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas
-precedentes cada vez que conteste las preguntas. Para las lecturas de los valores debe
-considerar las graficas que presenta el osciloscopio.
+**NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas precedentes cada vez que conteste las preguntas. Para las lecturas de los valores debe considerar las graficas que presenta el osciloscopio.**
 
 # VIDEO
 
+https://youtu.be/1-eKSV1eqy0
+
 # CONCLUSIONES:
 
-las ondas senoidales son patrones de ondas matematicas las cuales se describen por las funciones seno y coseno, estas ondas tienen a representar el voltaje, corriente en un intervalo de tiempo, estas ondas se las puede observar en los circuitos mediante un osiloscopio.
+Las ondas senoidales son patrones de ondas matematicas las cuales se describen por las funciones seno y coseno, estas ondas tienen a representar el voltaje, corriente en un intervalo de tiempo, estas ondas se las puede observar en los circuitos mediante un osiloscopio.
 
+El uso del osciloscopio para la onda senoidal nos ayudó a encontrar la frecuencia y la amplitud de señales de corriente alterna, como también ayudo a realizar la aplicación de medir los divisores de la onda.
 
 # BIBLIOGRAFÍA:
 
