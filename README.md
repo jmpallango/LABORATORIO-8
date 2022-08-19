@@ -101,9 +101,9 @@ f: _____________(Hz)
 
 ω: ____________(rad/s)
 
-8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _____4.849V__________
 
-![image](https://user-images.githubusercontent.com/105695077/185640366-2065f3db-7912-40a6-9fd0-66070072cedf.png)
+![image](https://user-images.githubusercontent.com/105695077/185641498-d96773d4-4468-4808-b95a-832d66f23df2.png)
 
 Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 ¿Coinciden? _______ ¿Por qué?
