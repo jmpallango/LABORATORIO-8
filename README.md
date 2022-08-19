@@ -106,7 +106,9 @@ f: ___2500__________(Hz)
 ![image](https://user-images.githubusercontent.com/105695077/185641498-d96773d4-4468-4808-b95a-832d66f23df2.png)
 
 Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
-¿Coinciden? _______ ¿Por qué?
+¿Coinciden? _No______ ¿Por qué?
+
+Debido a que el valor medido por el multimetro es un valor mrs no se asemeja al valor pico pico del punto 8.5.5 pero se puede calcular el valor pico pico utilizando el valor mrs, la formula para encontrar el valor pico pico mediante es valor mrs es multiplicar el valor mrs por 2 raiz de 2 (2.8284)
 
 NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas
 precedentes cada vez que conteste las preguntas. Para las lecturas de los valores debe
