@@ -73,15 +73,19 @@ Responda las siguientes preguntas:
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________
 
+1 divisor por cuadro abarca la amplitud pico de la señal de salida
+
 ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
 
 se encunetra en el valor 3 VOLTS/DIV
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________
 
-Abarca 2 ciclos completos por cuadro en la señal de salida
+Abarca 5 divisores por cuadro en la señal de salida
 
 ¿En qué valor está posicionada la perilla TIME/DIV? ___________
+
+Se encuetra en el valor de 0.1m 
 
 8.5.5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
