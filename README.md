@@ -63,13 +63,11 @@ Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece e
 
 Responda las siguientes preguntas:
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-___________
+¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-__________
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________
 
 ¿En qué valor está posicionada la perilla TIME/DIV? ___________
 
