@@ -73,7 +73,7 @@ Responda las siguientes preguntas:
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________
 
-1 divisor por cuadro abarca la amplitud pico de la señal de salida
+Abarca 3 divisores horizontal y 3 divisores verticales por cuadro la amplitud pico de la señal de salida
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
 
@@ -81,7 +81,7 @@ se encunetra en el valor 3 VOLTS/DIV
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________
 
-Abarca 5 divisores por cuadro en la señal de salida
+Abarca 5 divisores horizontales y 6 divisores verticales por cuadro en la señal de salida
 
 ¿En qué valor está posicionada la perilla TIME/DIV? ___________
 
